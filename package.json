@@ -1,6 +1,6 @@
 {
     "name": "QWC2App",
-    "version": "0.3.0",
+    "version": "1.0.0",
     "description": "QGIS Web Client 2 application",
     "repository": "git@github.com:sourcepole/qwc2-demo-app.git",
     "main": "index.js",
